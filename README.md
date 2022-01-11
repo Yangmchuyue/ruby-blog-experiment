@@ -2,7 +2,7 @@
 
 This project was made for the sole purpose of learning and exploration with ruby (v2.7.5) and rails (v7.0.1).
 <br>
-Tutorial followed (stopped at section 9.3): https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
+Tutorial followed (stopped at section 10): https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 <br>
 To startup:
 1. clone this repository

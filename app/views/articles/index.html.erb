@@ -1,5 +1,8 @@
 <h1>Articles</h1>
 
+Our blog has <%= Article.public_count %> public articles and counting! <br>
+<%= Article.archived_count %> articles are in our archives.
+
 <ul>
   <% @articles.each do |article| %>
     <% unless article.archived? %>
